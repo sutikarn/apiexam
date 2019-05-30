@@ -1,0 +1,84 @@
+{
+    "employee": [
+        {
+            "EmpNo": "",
+            "FName": "",
+            "LName": "",
+            "Sex": "",
+            "Salary": "0",
+            "StartDate": "0000-00-00",
+            "ResignDate": "0000-00-00",
+            "DeptCode": "0"
+        },
+        {
+            "EmpNo": "134",
+            "FName": "wdwd",
+            "LName": "fwf",
+            "Sex": "",
+            "Salary": "0",
+            "StartDate": "0000-00-00",
+            "ResignDate": "0000-00-00",
+            "DeptCode": "0"
+        },
+        {
+            "EmpNo": "13438",
+            "FName": "wdwd",
+            "LName": "fwf",
+            "Sex": "",
+            "Salary": "0",
+            "StartDate": "0000-00-00",
+            "ResignDate": "0000-00-00",
+            "DeptCode": "0"
+        },
+        {
+            "EmpNo": "E01",
+            "FName": "ธนสมบัติ",
+            "LName": "เก่งทำงาน",
+            "Sex": "M",
+            "Salary": "90000",
+            "StartDate": "0000-00-00",
+            "ResignDate": "0000-00-00",
+            "DeptCode": "0"
+        },
+        {
+            "EmpNo": "E02",
+            "FName": "ศักดิ์คีรี",
+            "LName": "คล่องการงาน",
+            "Sex": "M",
+            "Salary": "60000",
+            "StartDate": "0000-00-00",
+            "ResignDate": "0000-00-00",
+            "DeptCode": "10"
+        },
+        {
+            "EmpNo": "E03",
+            "FName": "วนาลี",
+            "LName": "ใจบริสุทธิ์",
+            "Sex": "F",
+            "Salary": "50000",
+            "StartDate": "0000-00-00",
+            "ResignDate": "0000-00-00",
+            "DeptCode": "20"
+        },
+        {
+            "EmpNo": "E04",
+            "FName": "คณิน",
+            "LName": "ค้าขายดี",
+            "Sex": "M",
+            "Salary": "70000",
+            "StartDate": "0000-00-00",
+            "ResignDate": "0000-00-00",
+            "DeptCode": "30"
+        },
+        {
+            "EmpNo": "E05",
+            "FName": "ธนบัตร",
+            "LName": "ทำกินเก่ง",
+            "Sex": "M",
+            "Salary": "50000",
+            "StartDate": "0000-00-00",
+            "ResignDate": "0000-00-00",
+            "DeptCode": "30"
+        }
+    ]
+}
